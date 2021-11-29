@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasina Akter</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hasina-Akter20&label=Profile%20views&color=4DC71F&style=flat" alt="FazleyBin-Mahbub" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hasina-Akter20&label=Profile%20views&color=4DC71F&style=flat" alt="" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/badge/Age-21-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
@@ -72,6 +72,6 @@
 
 <h4 align="center">Top langs :tongue: :</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazleyBin-Mahbub&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasina-Akter20&langs_count=5&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FazleyBin-Mahbub&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="FazleyBin-Mahbub" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasina-Akter20&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="" /></p>
