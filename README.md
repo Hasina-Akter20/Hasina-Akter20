@@ -72,9 +72,6 @@
 
 <h4 align="center">Top langs :tongue: :</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasina-Akter20
-&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazleyBin-Mahbub&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasina-Akter20
-&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="Hasina-Akter20
-"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FazleyBin-Mahbub&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="FazleyBin-Mahbub" /></p>
