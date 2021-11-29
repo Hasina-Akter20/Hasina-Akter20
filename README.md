@@ -76,4 +76,5 @@
 &langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasina-Akter20
-&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="FazleyBin-Mahbub" /></p>
+&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="Hasina-Akter20
+"/></p>
